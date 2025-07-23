@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.8.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.4-amd64/releases/download/2025.07.23/bsdtar-3.8.1-netbsd-9.4-amd64.release.tar.xz 
+bin-sha: 958e70735b04f1d16b3c09dc3efadb195d1fb7f6f990ef01df6924a5aecbf112

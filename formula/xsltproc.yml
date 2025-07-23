@@ -1,0 +1,5 @@
+summary: A command line tool for applying XSLT stylesheets to XML documents
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.42 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.4-amd64/releases/download/2025.07.23/xsltproc-1.1.42-netbsd-9.4-amd64.release.tar.xz 
+bin-sha: 490d67010b3c5ff96cc91572b5047959f21129816e26a0fae26f1bceed9a0dc6

@@ -1,0 +1,5 @@
+summary: Burrows–Wheeler-based data compression utilities with high compression ratio
+webpage: https://sourceware.org/bzip2
+version: 1.0.8 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.4-amd64/releases/download/2025.07.23/bzip2-1.0.8-netbsd-9.4-amd64.release.tar.xz 
+bin-sha: 96a939b6d39e8000c8937d2ce72b48031624834c02e2e82649f7a3750a7b0c63

@@ -1,0 +1,5 @@
+summary: flock(1) locks files
+webpage: https://github.com/discoteq/flock
+version: 0.4.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-9.4-amd64/releases/download/2025.07.23/flock-0.4.0-netbsd-9.4-amd64.release.tar.xz 
+bin-sha: 486be2acb6a43fb931c7b55caaa01513b63176ab79ff2338573bec260eaa2f41
